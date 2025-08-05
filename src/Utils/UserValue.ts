@@ -7,8 +7,8 @@ let users: User[] = [
     email: "rishi@gmail.com" 
   },
   { id: 2,
-    name: "Jane Smith", 
-    email: "jane@example.com" 
+    name: "bala", 
+    email: "bala@example.com" 
 }
 ];
 

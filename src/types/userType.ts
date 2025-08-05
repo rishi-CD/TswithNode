@@ -8,5 +8,3 @@ export interface CreateUser {
   name: string;
   email: string;
 }
-
-// export default User;
